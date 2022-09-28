@@ -1,0 +1,10 @@
+Apa itu Constructor :
+
+Constructor adalah method khusus yang akan dijalankan secara otomatis pada saat sebuah objek dibuat (instansiasi), yakni ketika perintah “new” dijalankan.
+
+Constructor biasa digunakan untuk membuat proses awal dalam mempersiapkan objek, seperti memberi nilai awal kepada property, memanggil method internal dan beberapa proses lain yang digunakan untuk mempersiapkan objek.
+
+
+Bagaimana membuat Constructor :
+
+Dalam PHP, constructor dibuat menggunakan method __construct().

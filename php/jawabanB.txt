@@ -1,0 +1,9 @@
+Apa itu Destructor :
+
+Destructor adalah method khusus yang dijalankan secara otomatis pada saat sebuah objek dihapus. Di dalam PHP, seluruh objek sebanarnya sudah otomatis dihapus ketika halaman PHP selesai diproses. Tetapi kita juga dapat menghapus objek secara manual.
+
+Destructor biasanya dipakai untuk membersihkan beberapa variabel, atau menjalankan proses tertentu sebelum objek dihapus.
+
+
+Bagaimana membuat Destructor :
+Dalam PHP, destructor dibuat menggunakan method __destruct().
