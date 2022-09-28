@@ -25,19 +25,3 @@ echo $drug->drugs();
 echo "<br />";
   
 ?>
-
-
-<!-- 
-<?php 
-    class toko_baju{
-
-        public $bahan = "katun";
-        public $jenis = "celana";
-        public $harga = "90000";
-
-        function tampil_baju(){
-            echo " bahan  : $this->bahan <br/> Jenis  : $this->jenis <br/> harga  : $this->harga";
-        }
-    }
-    $toko = new toko_baju;
-    $toko->tampil_baju(); ?>-->
